@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/debajyatidey"><img src="https://api.daily.dev/devcards/cb78df4a3daf499b957642ee8d5015bc.png?r=lkk" width="400" alt="Debajyati Dey's Dev Card"/></a>
 <!--
 **Debajyati/Debajyati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
