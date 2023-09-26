@@ -8,7 +8,7 @@
 ###  My Stats :
 ![Debajyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debajyati&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyati&langs_count=10&layout=compact)](https://github.com/RockingSNP/RockingSNP)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyati&langs_count=10&layout=compact)](https://github.com/Debajyati/Debajyati)
 
 <br>
 <!--
