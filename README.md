@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Javscript & Tailwind CSS
 
-### My Tech-stacks: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) <br> 
+### My Tech-stacks: 
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) <br> 
 
 ###  My Stats :
 ![Debajyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debajyati&show_icons=true&theme=tokyonight)
