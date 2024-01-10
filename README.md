@@ -15,6 +15,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyati&langs_count=10&layout=compact)](https://github.com/Debajyati/Debajyati)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Debajyati&theme=onedark)](https://github.com/Debajyati/github-profile-trophy)
+
+
+
 <br>
 <!--
 **Debajyati/Debajyati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
