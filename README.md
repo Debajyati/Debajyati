@@ -7,7 +7,7 @@
 
 ### My Tech-stacks: 
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=c&logoColor=blue) <br> 
+![C](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=c&logoColor=blue) ![javascript](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=javascript&logoColor=black)  <br> 
 
 
 ### My Stats : 
