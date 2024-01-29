@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Javscript & OCaml
 
 ### My Tech-stacks: 
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=c&logoColor=blue) ![javascript](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=javascript&logoColor=black)  <br> 
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=c&logoColor=blue&color=white) ![javascript](https://img.shields.io/badge/javascript-%808080.svg?style=plastic&color=black&logo=javascript&logoColor=yellow) 
+![wsl](https://img.shields.io/badge/WSL-0a97f5?style=plastic&logo=linux&logoColor=white)
+<br> 
 
 
 ### My Stats : 
