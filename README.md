@@ -4,7 +4,8 @@
 # **I'm Debajyati Dey**
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Javscript & OCaml
-
+### Connect with me :
+[![Peerlist](https://github-readme-badge.peerlist.io/api/debajyati)](https://peerlist.io/debajyati) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ddebajyati)
 ### My Tech-stacks: 
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=plastic&logo=python&logoColor=FFFF00)]()  [![HTML5](https://img.shields.io/badge/html5-%23239120.svg?&style=plastic&logo=html5&logoColor=white-Red)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=87CEEB) ![java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%808080.svg?style=plastic&logo=c&logoColor=blue&color=white) ![javascript](https://img.shields.io/badge/javascript-%808080.svg?style=plastic&color=black&logo=javascript&logoColor=yellow) 
