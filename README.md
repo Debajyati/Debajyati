@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/debajyatidey"><img src="https://api.daily.dev/devcards/cb78df4a3daf499b957642ee8d5015bc.png?r=lkk" width="400" alt="Debajyati Dey's Dev Card"/></a>
+<a href="https://app.daily.dev/debajyatidey"><img src="https://api.daily.dev/devcards/v2/5zahWGRIGj4Y3VQ3jIlBS.png?type=wide&r=im3" width="652" alt="Debajyati Dey's Dev Card"/></a>
 
 # **I'm Debajyati Dey**
 - 😄 Pronouns: He/Him
