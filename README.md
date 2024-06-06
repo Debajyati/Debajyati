@@ -18,6 +18,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyati&langs_count=10&layout=compact&theme=aura)](https://github.com/Debajyati/Debajyati)
 
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debajyati&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/Debajyati/Debajyati)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Debajyati&theme=onedark)](https://github.com/Debajyati/github-profile-trophy)
 
 
