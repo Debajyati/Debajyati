@@ -3,7 +3,7 @@
 
 # **I'm Debajyati Dey**
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 ### Connect with me :
 [![Peerlist](https://github-readme-badge.peerlist.io/api/debajyati)](https://peerlist.io/debajyati) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ddebajyati)
 ### My Tech-stacks: 
