@@ -4,6 +4,7 @@
 # **I'm Debajyati Dey**
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on turboterm.vim ( vim plugin )
 ### Connect with me :
 [![Peerlist](https://github-readme-badge.peerlist.io/api/debajyati)](https://peerlist.io/debajyati) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ddebajyati)
 ### My Tech-stacks: 
@@ -30,7 +31,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
