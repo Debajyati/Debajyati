@@ -23,6 +23,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Debajyati&theme=onedark)](https://github.com/Debajyati/github-profile-trophy)
 
+<h2 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h2>
+  <p align="center">
+    <a href="https://tublian.com/profile/Debajyati">
+      <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Debajyati?type=with_score" alt="Streetcred">
+    </a>
+  </p>
+
 <br>
 
 [![An image of @debajyati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debajyati)](https://holopin.io/@debajyati)
