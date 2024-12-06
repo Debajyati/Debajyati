@@ -43,7 +43,7 @@
 ![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white)
 ![Dev Community](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=orange)
 
 <br> 
 
