@@ -58,7 +58,7 @@
 
 <h2 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h2>
   <p align="center">
-    <a href="https://tublian.com/profile/Debajyati">
+    <a href="https://www.tublian.com/profile/Debajyati">
       <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Debajyati?type=with_score" alt="Streetcred">
     </a>
   </p>
