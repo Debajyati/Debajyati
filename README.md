@@ -47,13 +47,6 @@
 
 <br> 
 
-### My Stats : 
-![Debajyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debajyati&show_icons=true&theme=aura)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyati&langs_count=10&layout=compact&theme=aura)](https://github.com/Debajyati/Debajyati)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Debajyati&theme=onedark)](https://github.com/Debajyati/Debajyati)
-
 [![An image of @debajyati's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/debajyati)](https://holopin.io/@debajyati)
 
 <!--
