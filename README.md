@@ -1,5 +1,6 @@
 ### Hello fellow developers 👋
-<a href="https://app.daily.dev/debajyatidey"><img src="https://api.daily.dev/devcards/v2/5zahWGRIGj4Y3VQ3jIlBS.png?type=wide&r=amp" width="652" alt="Debajyati Dey's Dev Card"/></a>
+
+<a href="https://app.daily.dev/debajyatidey"><img src="https://api.daily.dev/devcards/v2/5zahWGRIGj4Y3VQ3jIlBS.png?type=wide&r=7ow" width="652" alt="Debajyati Dey's Dev Card"/></a>
 
 # **I'm Debajyati Dey**
 - 😄 Pronouns: He/Him
